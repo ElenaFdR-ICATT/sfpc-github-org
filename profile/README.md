@@ -22,19 +22,25 @@ Join our [community calls](https://community.standardforpubliccode.org/), come s
 
 We're currently not aware of any codebases that meet all of the criteria of the [Standard for Public Code](https://standard.publiccode.net/).
 
+We'd like to hear from you if your organization is using the Standard. Please create a PR if your organization should be on the lists below, or start a discussion or join a community call.
+
 ### Public commitment
 
 The following codebases have made a public commitment to meet the Standard for Public Code:
 
 * [Algoritmeregister standard](https://github.com/Algoritmeregister/standard#standard-for-public-code-compliance)
 * [DataDiode](https://github.com/CyberInnovationHub-NLD/OpenSourceDataDiode#standard-for-public-code)
-* [Governance game](https://github.com/publiccodenet/governance-game#contributing)
+* [Governance game](https://github.com/publiccodenet/governance-game#contributing) ([assessment](https://github.com/publiccodenet/governance-game/blob/develop/standard-for-public-code-assessment.html))
 * [Jitsi-Outlook](https://github.com/diggsweden/jitsi-outlook/blob/main/CONTRIBUTING.adoc#standard-for-public-code)
-* [Omgevingsbeleid FrontEnd](https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend#standard-for-public-code)
-* [Open Source Project Template](https://github.com/diggsweden/open-source-project-template/blob/main/CONTRIBUTING.adoc#standard-for-public-code)
+* [Omgevingsbeleid FrontEnd](https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend#standard-for-public-code) ([assessment](https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend/blob/main/standard-for-public-code-assessment.html))
+* [Open Source Project Template](https://github.com/diggsweden/open-source-project-template/blob/main/CONTRIBUTING.adoc#standard-for-public-code) ([assessment](https://github.com/diggsweden/open-source-project-template/blob/main/docs/public_code/standard-for-public-code-assessment.html))
 * [OpenForms](https://github.com/open-formulieren/open-forms/blob/master/CONTRIBUTING.md)
-* [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md)
-* [Signalen BackEnd](https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md)
-* [Standard for Public Code](https://github.com/publiccodenet/standard#help-improve-this-standard) (the Standard for Public Code community aims for the Standard itself to be as compliant as possible)
+* [OpenStad](https://github.com/openstad/openstad-headless/blob/main/CONTRIBUTING.md#1-je-wijzigingen-aanbrengen)
+* [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md) ([assessment](https://open-zaak.readthedocs.io/en/latest/introduction/open-source/public_code.html))
+* [Signalen BackEnd](https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md) ([assessment](https://github.com/Amsterdam/signals/blob/main/docs/topics/signalen-and-standard-for-public-code.md))
+* [Standard for Public Code](https://github.com/publiccodenet/standard#help-improve-this-standard) (the Standard for Public Code community aims for the Standard itself to be as compliant as possible) ([assessment](https://www.standardforpubliccode.org/docs/standard-for-public-code.html))
 
-We'd like to hear from you if your organization is using the Standard. Please create a PR if your organization should be on this list, or start a discussion or join a community call.
+### Other known users of the Standard
+
+* Govdirectory ([assessment](https://www.govdirectory.org/standard-for-public-code/))
+* Wekan ([assessment](https://wekan.fi/standard-for-public-code/))
