@@ -38,7 +38,7 @@ The following codebases have made a public commitment to meet the Standard for P
 * [OpenStad](https://github.com/openstad/openstad-headless/blob/main/CONTRIBUTING.md#1-je-wijzigingen-aanbrengen)
 * [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md) ([assessment](https://open-zaak.readthedocs.io/en/latest/introduction/open-source/public_code.html))
 * [Signalen BackEnd](https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md) ([assessment](https://github.com/Amsterdam/signals/blob/main/docs/topics/signalen-and-standard-for-public-code.md))
-* [Standard for Public Code](https://github.com/publiccodenet/standard#help-improve-this-standard) (the Standard for Public Code community aims for the Standard itself to be as compliant as possible) ([assessment](https://www.standardforpubliccode.org/docs/standard-for-public-code.html))
+* [Standard for Public Code](https://github.com/standard-for-public-code/standard-for-public-code#help-improve-this-standard) (the Standard for Public Code community aims for the Standard itself to be as compliant as possible) ([assessment](https://www.standardforpubliccode.org/docs/standard-for-public-code.html))
 
 ### Other known users of the Standard
 
